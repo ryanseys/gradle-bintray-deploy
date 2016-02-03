@@ -1,5 +1,7 @@
 # gradle-bintray-deploy
 
+> Deploy your package to JFrog's Bintray & Maven Central from Gradle easily
+
 Blog post: https://medium.com/@ryanseys/publishing-to-maven-central-and-jcenter-2b6376424856
 
 ## Usage
